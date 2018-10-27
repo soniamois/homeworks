@@ -8,5 +8,5 @@
 ---|:---:|---:
 |1|HW0|[Ссылка на 0-ое дз](https://github.com/soniamois/python-dh-hw/blob/master/README.md)|
 |2|HW1|[Ссылка на 1-ое дз](https://github.com/soniamois/python-dh-hw/blob/master/HW1.ipynb)|
-|3|HW2|Ссылка на 1-ое дз| (https://github.com/soniamois/python-dh-hw/blob/master/HW2.ipynb)
+|3|HW2|[Ссылка на 2-ое дз](https://github.com/soniamois/python-dh-hw/blob/master/HW2.ipynb)|
 
