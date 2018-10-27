@@ -6,7 +6,7 @@
 
 |№|Описание|Ссылка на работу|
 ---|:---:|---:
-|1|HW0|[Ссылка](https://github.com/soniamois/python-dh-hw/blob/master/README.md)|
-|2|HW1|[Ссылка](https://github.com/soniamois/python-dh-hw/blob/master/HW1.ipynb)|
-|3|HW2|Ссылка|
+|1|HW0|[Ссылка на 0-ое дз](https://github.com/soniamois/python-dh-hw/blob/master/README.md)|
+|2|HW1|[Ссылка на 1-ое дз](https://github.com/soniamois/python-dh-hw/blob/master/HW1.ipynb)|
+|3|HW2|Ссылка на 1-ое дз| (https://github.com/soniamois/python-dh-hw/blob/master/HW2.ipynb)
 
